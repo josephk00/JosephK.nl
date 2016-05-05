@@ -1,10 +1,22 @@
 package nl.josephk.web.model;
 
-import org.springframework.stereotype.Component;
+
 
 /**
  * Created by ame21103 on 4-5-2016.
  */
-@Component
 public class FrontPageModel {
+
+    private String welcomeMessage;
+
+    public FrontPageModel() {
+    }
+
+    public String getWelcomeMessage() {
+        return welcomeMessage;
+    }
+
+    public void setWelcomeMessage(String welcomeMessage) {
+        this.welcomeMessage = welcomeMessage;
+    }
 }
