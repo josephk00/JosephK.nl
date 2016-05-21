@@ -18,6 +18,7 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.2.5.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.2.5.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-web:4.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.tuckey:urlrewritefilter:4.0.3" />
         </element>
       </element>
       <element id="directory" name="META-INF">
